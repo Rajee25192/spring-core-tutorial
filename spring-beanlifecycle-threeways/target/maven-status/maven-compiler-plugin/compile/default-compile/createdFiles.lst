@@ -1,0 +1,11 @@
+com\javadevsguide\springframework\InitializingBean\EmailConfigCache.class
+com\javadevsguide\springframework\service\TwitterService.class
+com\javadevsguide\springframework\test\TestApplication.class
+com\javadevsguide\springframework\config\AppConfiguration.class
+com\javadevsguide\springframework\InitializingBean\Email.class
+com\javadevsguide\springframework\InitializingBean\EmailConfigCacheDesposal.class
+com\javadevsguide\springframework\service\EmailService.class
+com\javadevsguide\springframework\service\MessageProcessorImpl.class
+com\javadevsguide\springframework\service\MessageService.class
+com\javadevsguide\springframework\service\MessageProcessor.class
+com\javadevsguide\springframework\service\SMSService.class

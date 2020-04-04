@@ -1,0 +1,11 @@
+com\javadevsguide\springframework\di\constructor\ConstructorBasedInjection.class
+com\javadevsguide\springframework\di\service\MessageService.class
+com\javadevsguide\springframework\di\setter\SetterBasedInjection.class
+com\javadevsguide\springframework\di\service\TwitterService.class
+com\javadevsguide\springframework\di\service\UserServiceImpl.class
+com\javadevsguide\springframework\di\service\EmailService.class
+com\javadevsguide\springframework\di\service\UserService.class
+com\javadevsguide\springframework\di\config\AppConfiguration.class
+com\javadevsguide\springframework\di\service\SMSService.class
+com\javadevsguide\springframework\di\test\TestApplication.class
+com\javadevsguide\springframework\di\field\FieldBasedInjection.class

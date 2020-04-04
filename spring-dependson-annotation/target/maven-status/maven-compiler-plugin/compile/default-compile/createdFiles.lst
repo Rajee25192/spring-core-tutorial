@@ -1,0 +1,5 @@
+net\javaguides\spring\dependson\Application.class
+net\javaguides\spring\dependson\FirstBean.class
+net\javaguides\spring\dependson\AppConfig.class
+net\javaguides\spring\dependson\SecondBean.class
+net\javaguides\spring\dependson\ThirdBean.class
